@@ -1,0 +1,21 @@
+.custom-header {
+    background: linear-gradient(to right, #007bff, #6f42c1); /* Dégradé bleu-violet */
+}
+
+.custom-footer {
+    background: linear-gradient(to right, #007bff, #6f42c1); /* Dégradé bleu-violet */
+}
+
+/* Icônes sociales en blanc */
+.social-icons a {
+    color: white; /* Couleur blanche pour les icônes */
+}
+
+.social-icons a:hover {
+    color: #f8f9fa; /* Couleur légèrement plus claire au survol */
+}
+
+/* Autres styles pour le corps */
+body {
+    background-color: #EEE6F1; /* Couleur de fond douce */
+}
